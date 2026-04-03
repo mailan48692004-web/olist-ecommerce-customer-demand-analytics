@@ -53,7 +53,6 @@ Main tables used:
 ## Repository Structure
 ```text
 ecommerce-customer-demand-analytics/
-├── data/
 ├── notebooks/
 ├── outputs/
 ├── README.md
